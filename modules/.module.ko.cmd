@@ -1,0 +1,1 @@
+cmd_/home/nidhi/Desktop/modules/module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nidhi/Desktop/modules/module.ko /home/nidhi/Desktop/modules/module.o /home/nidhi/Desktop/modules/module.mod.o

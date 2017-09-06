@@ -1,0 +1,1 @@
+cmd_/home/nidhi/Desktop/review/modules/firstdevice.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nidhi/Desktop/review/modules/firstdevice.ko /home/nidhi/Desktop/review/modules/firstdevice.o /home/nidhi/Desktop/review/modules/firstdevice.mod.o
